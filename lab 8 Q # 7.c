@@ -1,0 +1,2 @@
+-	chmod 777: Grants full read, write, and execute permissions to the owner, group, and others.
+-	chmod 775: Grants full read, write, and execute permissions to the owner and group, but only read and execute permissions to others.
