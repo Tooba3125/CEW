@@ -1,0 +1,5 @@
+// 1.	cat ch1: Displays the content of the file named "ch1" in the terminal.
+// 2.	cat ch1 ch2 ch3 > “your-practical-group”: Concatenates the content of files "ch1," "ch2," and "ch3" and redirects the output to a new file named "your-practical-group." This command creates a new file containing the combined content of the specified files.
+// 3.	cat note5 >> notes: Appends the content of the file "note5" to the end of the file named "notes." This command adds the content of "note5" to the existing content of "notes" without overwriting it.
+// 4.	cat > temp1: Allows you to enter text interactively. Whatever you type will be written to a new file named "temp1." Press Ctrl+D to indicate the end of input.
+// 5.	cat > temp2 << “yourname”: Similar to the previous command but with a here document. It allows you to enter multiple lines of text interactively until you type "yourname." The entered text is then saved to a new file named "temp2." Press Enter after typing "yourname" to complete the input.
